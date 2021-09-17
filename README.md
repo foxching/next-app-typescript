@@ -10,11 +10,10 @@ just a random app built with next, chakra-ui , typescript
 
 
 
-
 ## Tech stack
 * ReactJS
 * Nextjs
 * Typescript
 * Chakra ui
 
-Demo
+[Demo](https://next-app-typescript-kappa.vercel.app/ "Demo")
